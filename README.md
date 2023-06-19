@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm AYUSH SHARMA</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img alt="code" width="400" align="right"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img alt="code" width="400" align="right"  src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush09316&label=Profile%20views&color=0e75b6&style=flat" alt="ayush09316" /> </p>
 
 - 🌱 I’m currently learning **Typescript || Blender ||**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ayushsharma170199@gmail.com**
 
