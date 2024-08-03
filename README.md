@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush09316&label=Profile%20views&color=0e75b6&style=flat" alt="ayush09316" /> </p>
 
-- 🌱 I’m currently learning **ML  || Django ||**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **MERN**
 
