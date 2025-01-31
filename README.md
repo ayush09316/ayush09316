@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://ayush-portfolio-09.vercel.app/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://ayush-portfolio-puce.vercel.app/)
 <h1 align="center">Hi 👋, I'm AYUSH SHARMA</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush09316&label=Profile%20views&color=0e75b6&style=flat" alt="ayush09316" /> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **MERN**
 
